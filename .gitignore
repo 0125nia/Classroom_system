@@ -13,7 +13,7 @@ classroom/classroom-web/src/main/resources/static
 *.iml
 *.ipr
 
-
+*.sql
 
 
 ### LOG ###
